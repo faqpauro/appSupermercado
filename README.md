@@ -1,0 +1,2 @@
+# App Supermercado
+La aplicación de escritorio del supermercado es una herramienta diseñada para facilitar la gestión de la tienda. Con esta aplicación, los usuarios pueden abrir y cerrar cajas, agregar nuevos clientes y atender a los clientes existentes de manera rápida y sencilla. La aplicación cuenta con una interfaz de usuario intuitiva y fácil de usar, donde todas las operaciones se realizan en una tabla. Cada caja se representa en una fila de la tabla.
